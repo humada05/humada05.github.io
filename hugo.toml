@@ -24,7 +24,7 @@ theme = "paper"
   # home page profile
   avatar = 'ah27182@gmail.com'                 # gravatar email or image url
   name = 'Ahmed Husain'
-  bio = 'I’m a builder at heart, always exploring new ways to create — from scalable data pipelines and backend systems to Hawaiian-style shaved ice. This blog is a place for my thoughts, experiments, and occasional musings on building and learning.'
+  bio = 'I’m a builder at heart, always exploring new ways to create. This blog is a place for my thoughts, experiments, and occasional musings on building and learning.'
 
 
   # misc
