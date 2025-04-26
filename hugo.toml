@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://humada05.github.io/'
 languageCode = 'en-us'
-title = ''
+title = '﷽'
 theme = "paper"
 
 [services]
@@ -50,3 +50,7 @@ theme = "paper"
 #   mapping = 'pathname'
 #   theme = 'light'
 #   lang = 'zh-CN'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
