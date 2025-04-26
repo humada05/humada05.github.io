@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 02:46:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transcribing Urdu With OCR</title>
+      <link>http://localhost:1313/posts/transcribing-urdu-with-ocr/</link>
+      <pubDate>Thu, 29 Aug 2024 02:46:37 -0700</pubDate>
+      <guid>http://localhost:1313/posts/transcribing-urdu-with-ocr/</guid>
+      <description>&lt;p&gt;My mother needed some help transcribing a document written in urdu. Normally this should as simple as copy and pasting from the document, but this was a pdf that only recorded glyphs?&lt;/p&gt;&#xA;&lt;p&gt;I tried to use the OCR software from my iphone, which did detect the letters from the document, but it transcribed the letters as arabic. One of the problems with this is that the Urdu alphabet is a superset of arabic, so many letters were being incorrectly mapped.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
