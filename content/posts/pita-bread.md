@@ -63,3 +63,15 @@ Note: if you're working with more than 12 pieces of dough, I don't recommend rol
 4. Remove and let it rest.
 
 These will keep for 3-4 days in an airtight container, and they freeze well.
+
+---
+
+It is mentioned in the holy Quran:
+
+> إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا﴿ ٦ ﴾
+>
+> Abdul Haleem: "truly where there is hardship there is also ease."
+>
+> Ash-Sharḥ, Ayah 6
+
+May He grant them a true victory.
