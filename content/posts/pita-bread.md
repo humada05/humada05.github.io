@@ -1,5 +1,5 @@
 +++
-date = '2026-07-17T14:20:00-07:00'
+date = '2026-07-17T03:00:00-07:00'
 draft = false
 title = 'Pita Bread'
 +++
@@ -66,12 +66,22 @@ These will keep for 3-4 days in an airtight container, and they freeze well.
 
 ---
 
+<style>
+@font-face {
+  font-family: 'Scheherazade New';
+  src: url('/fonts/scheherazade-new-arabic-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+</style>
+
 It is mentioned in the holy Quran:
 
-> إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا﴿ ٦ ﴾
->
-> Abdul Haleem: "truly where there is hardship there is also ease."
->
-> Ash-Sharḥ, Ayah 6
+<blockquote>
+<p dir="rtl" style="font-family: 'Scheherazade New', serif; font-size: 2em; line-height: 1.8;">إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا﴿ ٦ ﴾</p>
+<p>Abdul Haleem: "truly where there is hardship there is also ease."</p>
+<p>Ash-Sharḥ, Ayah 6</p>
+</blockquote>
 
 May He grant them a true victory.

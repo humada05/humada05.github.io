@@ -59,3 +59,8 @@ theme = "paper"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # allow the raw HTML used to load an Arabic web font for Quranic text
