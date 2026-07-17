@@ -3,9 +3,11 @@ languageCode = 'en-us'
 title = '﷽'
 theme = "paper"
 
-[services]
-  [services.disqus]
-    shortname = 'Ahmed'     # use disqus comments
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
 
 [params]
   # color style
@@ -41,15 +43,18 @@ theme = "paper"
   # RTL supprot
 #   direction = "rtl"                         # RTL support for Right-to-left languages
 
-#   # giscus
-# [params.giscus]
-#   repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-#   repoId = 'YOUR_GISCUS_REPO_ID'
-#   category = 'YOUR__GISCUS_CATEGORY'
-#   categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-#   mapping = 'pathname'
-#   theme = 'light'
-#   lang = 'zh-CN'
+  # giscus (GitHub Discussions-backed comments) — see https://giscus.app
+  # repoId/category/categoryId can't be filled in until Discussions is enabled
+  # on the repo and the giscus app is installed; grab them from giscus.app then
+  # paste them in below.
+[params.giscus]
+  repo = 'humada05/humada05.github.io'
+  repoId = 'YOUR_GISCUS_REPO_ID'
+  category = 'YOUR_GISCUS_CATEGORY'
+  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+  mapping = 'pathname'
+  theme = 'light'
+  lang = 'en'
 
 [caches]
   [caches.images]
