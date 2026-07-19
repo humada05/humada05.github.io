@@ -4,13 +4,13 @@ draft = false
 title = 'Pita Bread'
 +++
 
-This pita bread can be made in a normal home oven. Ideally one that's as hot as possible with a pizza stone ready to go, but I've made it work on cast iron pan bottoms and even aluminum sheet trays.
+Watching the genocide unfold in Gaza has been a shock to my system in many ways that I'm only beginning to fully understand. It's a topic that simply scratching the surface will cotninue to break ground on my soul and release tears.
 
-I wanted to share this recipe, and the reason I got interested in making pita bread in the first place. During the genocide in Gaza, I frequently saw videos of Palestinians, young and old, rolling out and making bread with whatever little they had. Ovens were makeshift and haphazard, and fuel was often rubble or anything they could find to burn. During the flour shortages, some began supplementing their dough with macaroni, boiled long enough to be worked into the dough (the ingredients are pretty much the same thing as bread, when you think about it).
+That being said, I wanted to share this recipe, and the reason I got interested in making pita bread in the first place. I frequently saw videos of Palestinians, young and old, rolling out and making bread with whatever little they had. Ovens were makeshift and haphazard, and fuel was often rubble or anything they could find to burn. During the flour shortages, some began supplementing their dough with macaroni, boiled long enough to be worked into the dough (the ingredients are pretty much the same thing as bread).
 
 Setting aside the sheer resilience and strength these people showed, watching all of this made me feel like everyone should know how to make their staple foods from basic ingredients. It's a skill you don't think you need, until you do.
 
-Here's the recipe.
+This pita bread can be made in a normal home oven. Ideally one that's as hot as possible with a pizza stone ready to go, but I've made it work on cast iron pans and aluminum sheet trays.
 
 ## Pita bread
 
@@ -38,7 +38,7 @@ Makes 6 pitas at 80g each (see below for other sizes).
 3. After 10-15 minutes, check if the yeast has activated and a frothy layer has formed. If not, the yeast is dead and the dough won't rise.
 4. Add the flour and salt to your mixing bowl and mix briefly to combine.
 5. Make a well in the center and add the yeast mixture and the oil. Use the dough hook attachment on your stand mixer, or your hands, to bring the yeast and flour together into a shaggy dough ball.
-6. Knead on low speed for 8-10 minutes with the mixer, or 12-15 minutes by hand, until the dough is smooth and soft. It should be only a tiny bit sticky to the touch.
+6. Knead on low speed for 10 minutes with the mixer, or 12-15 minutes by hand, until the dough is smooth and soft. It should be only a tiny bit sticky to the touch.
 7. Lightly oil a bowl, then add your dough, leaving room for it to double in size. Cover with plastic wrap or a kitchen towel and let it rise for 1 hour.
 8. After an hour, flour your worktop and place the risen dough on it. Knock out the air and cut into the desired number of pieces.
 9. Weigh the pieces to make sure they're evenly sized, then roll them into balls. Keep them covered until needed.
@@ -52,13 +52,13 @@ Note: if you're working with more than 12 pieces of dough, I don't recommend rol
 1. Preheat your oven to its hottest setting, with the fan on if you have one.
 2. Place a pizza stone or steel in the middle of the oven, or use an oven tray turned upside down. Let the oven fully preheat with it inside.
 3. Once heated, add a rolled out pita. I prefer doing one at a time, but you can do more if you want to speed things up.
-4. Cook until it puffs up and a brown ring forms around the edge. In my oven at 240°C this took about 3.5 minutes. I'd recommend testing a single pita first to dial in the timing for your oven.
+4. Cook until it puffs up and a brown ring forms around the edge. I'd recommend testing a single pita first to dial in the timing for your oven.
 5. Remove the pita once browned and place it immediately on a tray or plate. Cover with a kitchen towel and let it rest before serving.
 
 ### To cook in a pan
 
 1. Preheat a heavy-bottomed pan over high heat.
-2. Add a rolled out pita to the pan and cook for 30-45 seconds.
+2. Add some oil and quivkly place a rolled out pita to the pan and cook for 30-45 seconds.
 3. Flip every 30-45 seconds until it inflates and browns on the outside.
 4. Remove and let it rest.
 
@@ -80,8 +80,8 @@ It is mentioned in the holy Quran:
 
 <blockquote>
 <p dir="rtl" style="font-family: 'Scheherazade New', serif; font-size: 2em; line-height: 1.8;">إِنَّ مَعَ ٱلۡعُسۡرِ یُسۡرࣰا﴿ ٦ ﴾</p>
-<p>Abdul Haleem: "truly where there is hardship there is also ease."</p>
+<p>"truly where there is hardship there is also ease."</p>
 <p>Ash-Sharḥ, Ayah 6</p>
 </blockquote>
 
-May He grant them a true victory.
+Ameen.
