@@ -4,9 +4,9 @@ draft = false
 title = 'Pita Bread'
 +++
 
-Watching the genocide unfold in Gaza has been a shock to my system in many ways that I'm only beginning to fully understand. It's a topic that simply scratching the surface will cotninue to break ground on my soul and release tears.
+Watching the genocide unfold in Gaza has been a shock to my system in many ways that I'm only beginning to fully understand. It's a topic that simply scratching the surface will cotninue to unearth tears from me.
 
-That being said, I wanted to share this recipe, and the reason I got interested in making pita bread in the first place. I frequently saw videos of Palestinians, young and old, rolling out and making bread with whatever little they had. Ovens were makeshift and haphazard, and fuel was often rubble or anything they could find to burn. During the flour shortages, some began supplementing their dough with macaroni, boiled long enough to be worked into the dough (the ingredients are pretty much the same thing as bread).
+That being said, I wanted to dedicate this article to a pita bread recipe that I was inspired to make. I frequently saw videos of Palestinians, young and old, rolling out and making bread with whatever little they had. Ovens were makeshift and haphazard, and fuel was often rubble or anything they could find to burn. During the flour shortages, some began supplementing their dough with macaroni, boiled long enough to be worked into the dough (both are just cominations of flour + water).
 
 Setting aside the sheer resilience and strength these people showed, watching all of this made me feel like everyone should know how to make their staple foods from basic ingredients. It's a skill you don't think you need, until you do.
 
